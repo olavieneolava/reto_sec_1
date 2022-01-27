@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Karla', sans-serif;
+}
+body {
+    box-sizing: border-box;
+    background-color: hsl(204, 43%, 93%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 1em;
+
+}
+.prim{
+	background-color: white;
+	margin: 30px;
+	padding: 20px;
+	line-height : 20px;
+	color: gray;
+}
+h1{
+    color:#2BB3B1;
+
+}
+
+.verde{
+	color:#C5D932;
+	}
+
+.seg{
+	background-color: #2BB3B1;
+	color: white;
+	text-align: left;
+	padding-left: 21px;
+}.seg .veintinueve {
+	font-size: x-large;
+	font-weight: bold;
+	
+}
+.boton{
+	text-decoration: none;
+	text-decoration-style: none;
+	color: white;
+	background-color: #C5D932;
+	padding: 20px;
+	text-align: center;
+	border-radius: 24px;
+}
+.ter{
+	background-color:#4ABEBD;
+	color: white;
+	text-align: center;
+	
+	}
+
+.ptres{
+	text-align: left;
+	line-height : 20px;
+	color: #F2F2F2;
+	padding-left: 21px;
+}
+footer {
+    margin-top: 1em;
+    text-align: center;
+    text-decoration: none;
+}
