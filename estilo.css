@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+.contenedor{
+	align-content: center;
+	align-items: center;
+    width: 100vw;
+	 height: 100vw;
+	margin-right: 20px;
+}
+section{
+	margin: 30px;
+	padding: 20px;
+	line-height : 20px;
+	color: gray;
+}
+h1{
+    color:#2BB3B1;
+
+}
+
+.verde{
+	color:#C5D932;
+	}
+.segundo{
+	background-color: #2BB3B1;
+	color: white;
+	text-align: center;
+	height: 250px;
+	width: 40vw;
+	float:left;
+	margin-right: 0;
+	
+	}
+.veintinueve{
+	font-size: 20px;
+}
+
+.boton{
+	text-decoration: none;
+	text-decoration-style: none;
+	color:white;
+	background-color: #C5D932;
+    border-radius: 20px;
+	padding: 20px;
+}
+
+.tercero{
+	background-color:#4ABEBD;
+	color: white;
+	text-align: center;
+	height: 250px;
+	width: 40vw;
+	float: right;
+	margin-left: 0;
+	
+	}
+.ptres{
+	padding-left: 100px;
+	padding-right: 100px;
+	line-height : 25px;
+	text-align: left;
+	color: #F2F2F2;
+	
+}
+.doble{
+	display: flex;
+	align-content: center center;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
